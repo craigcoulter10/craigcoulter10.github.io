@@ -1,4 +1,4 @@
-## Project 1
+## Project 1 - Dedicated Roofing
 
 **Project description:**
 
@@ -8,7 +8,7 @@ Website link: [Dedicated Roofing](http://testdomaindigital.co.uk/).
 
 <img src="images/dedicatedroofing-thumb.jpg?raw=true"/>
 
-## Project 2
+## Project 2 - Hutton Home Maker
 
 **Project description:**
 
