@@ -5,7 +5,7 @@
 ### Wordpress Project - Dedicated Roofing 
 
 [Dedicated Roofing](/dedicated_roofing)
-<img src="images/dedicatedroofing.png?raw=true"/>
+<img src="images/dedicatedroofing-thumb.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
