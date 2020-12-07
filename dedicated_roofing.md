@@ -1,6 +1,7 @@
 **Project description:**
 
-This was built with the Divi Wordpress theme and currently sits on a temporary domain.
+Taking the PSD for the Senior Designer, this website was built using the Divi theme for Wordpress and currently sits on a temporary domain.
 
-View the website here: [Dedicated Roofing](http://testdomaindigital.co.uk/).
+Website link: [Dedicated Roofing](http://testdomaindigital.co.uk/).
 
+<img src="images/dedicatedroofing-thumb.jpg?raw=true"/>
