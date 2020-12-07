@@ -4,14 +4,14 @@
 
 ### Wordpress Project - Dedicated Roofing 
 
-[Dedicated Roofing](/website_examples.md)
+[Dedicated Roofing](/dedicated_roofing.md)
 <img src="images/dedicatedroofing-thumb.jpg?raw=true"/>
 
 ---
 
 ### Wordpress Project - Hutton Home Maker
 
-[Hutton Home Maker](/website_examples.md)
+[Hutton Home Maker](/huttom_home_maker.md)
 <img src="images/huttonhomemaker-thumb.jpg?raw=true"/>
 
 ---
