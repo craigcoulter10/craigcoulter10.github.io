@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Wordpress Profect - Dedicated Roofing 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dedicated Roofing](/dedicated_roofing)
+<img src="images/dedicatedroofing.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
