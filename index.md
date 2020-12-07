@@ -11,7 +11,7 @@
 
 ### Wordpress Project - Hutton Home Maker
 
-[Hutton Home Maker](/huttom_home_maker.md)
+[Hutton Home Maker](/hutton_home_maker.md)
 <img src="images/huttonhomemaker-thumb.jpg?raw=true"/>
 
 ---
