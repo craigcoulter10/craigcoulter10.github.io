@@ -4,7 +4,7 @@
 
 ### Wordpress Project - Dedicated Roofing 
 
-[Dedicated Roofing](/dedicated_roofing)
+[Dedicated Roofing](/dedicated_roofing.md)
 <img src="images/dedicatedroofing-thumb.jpg?raw=true"/>
 
 ---
