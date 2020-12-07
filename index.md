@@ -4,12 +4,12 @@
 
 ### Wordpress Project - Dedicated Roofing 
 
-[Dedicated Roofing](/dedicated_roofing.md)
+[Dedicated Roofing](/website_examples.md)
 <img src="images/dedicatedroofing-thumb.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hutton Home Maker](/website_examples.md)
+<img src="images/huttonhomemaker-thumb.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
