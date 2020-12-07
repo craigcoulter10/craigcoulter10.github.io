@@ -2,7 +2,7 @@
 
 ---
 
-### Wordpress Profect - Dedicated Roofing 
+### Wordpress Project - Dedicated Roofing 
 
 [Dedicated Roofing](/dedicated_roofing)
 <img src="images/dedicatedroofing.jpg?raw=true"/>
